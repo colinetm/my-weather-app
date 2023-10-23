@@ -6,6 +6,10 @@ Vous pouvez utiliser l’api https://openweathermap.org/
 Consigne du test :
 Afficher la température de la ville de votre choix , l’application est responsive.
 Comme ci-dessus.
+
+
+
+
 ![image](https://github.com/colinetm/my-weather-app/assets/53445775/96f91949-f108-4f97-9497-59819a5daeab)
 
 information à afficher :
